@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lab/adflix/static/css/main.a36607f7.chunk.css",
+    "main.js": "/lab/adflix/static/js/main.2193dd03.chunk.js",
+    "main.js.map": "/lab/adflix/static/js/main.2193dd03.chunk.js.map",
+    "runtime-main.js": "/lab/adflix/static/js/runtime-main.d30889e9.js",
+    "runtime-main.js.map": "/lab/adflix/static/js/runtime-main.d30889e9.js.map",
+    "static/js/2.6c8ed885.chunk.js": "/lab/adflix/static/js/2.6c8ed885.chunk.js",
+    "static/js/2.6c8ed885.chunk.js.map": "/lab/adflix/static/js/2.6c8ed885.chunk.js.map",
+    "index.html": "/lab/adflix/index.html",
+    "precache-manifest.f0814ddbdc0dd82bd91e391759acd46e.js": "/lab/adflix/precache-manifest.f0814ddbdc0dd82bd91e391759acd46e.js",
+    "service-worker.js": "/lab/adflix/service-worker.js",
+    "static/css/main.a36607f7.chunk.css.map": "/lab/adflix/static/css/main.a36607f7.chunk.css.map",
+    "static/js/2.6c8ed885.chunk.js.LICENSE.txt": "/lab/adflix/static/js/2.6c8ed885.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lab/adflix/static/media/WickedScaryMovie.7ed8a393.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d30889e9.js",
+    "static/js/2.6c8ed885.chunk.js",
+    "static/css/main.a36607f7.chunk.css",
+    "static/js/main.2193dd03.chunk.js"
+  ]
+}

@@ -1,8 +1,7 @@
 .mvPlayerList {
   position: relative;
-  width: 30%;
+  width: 40%;
   height: calc(100vh - 8rem);
-  overflow: hidden;
   display: flex;
   flex-direction: column;
   color: white;
@@ -31,6 +30,7 @@
   justify-content: center;
   align-items: center;
   padding: 0.2rem 0.5rem;
+  margin-right: 30px;
   border-radius: 0.5rem;
   font-weight: bold;
   font-size: 1.5rem;
@@ -60,4 +60,29 @@
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+@media all and (max-width: 320px) {
+  .mvPlayerList--header h3 {
+    font-size: 1.2rem;
+  }
+  .mvPlayerList--badge {
+    margin-right: 20px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 2px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 }
